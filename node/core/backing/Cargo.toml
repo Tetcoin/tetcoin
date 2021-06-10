@@ -13,7 +13,7 @@ tetcoin-subsystem = { package = "tetcoin-node-subsystem", path = "../../subsyste
 tetcoin-node-subsystem-util = { path = "../../subsystem-util" }
 erasure-coding = { version = "0.8.28", package = "tetcoin-erasure-coding", path = "../../../erasure-coding" }
 statement-table = { package = "tetcoin-statement-table", path = "../../../statement-table" }
-bitvec = { version = "0.20.1", default-features = false, features = ["alloc"] }
+bitvec = { version = "0.22.3", default-features = false, features = ["alloc"] }
 tracing = "0.1.22"
 # tracing-futures = "0.2.4"
 thiserror = "1.0.23"

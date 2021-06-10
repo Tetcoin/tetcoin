@@ -16,7 +16,7 @@ tetcoin-node-network-protocol = { path = "../../network/protocol" }
 
 [dev-dependencies]
 tetcoin-node-subsystem-test-helpers = { path = "../../subsystem-test-helpers" }
-bitvec = { version = "0.20.1", default-features = false, features = ["alloc"] }
+bitvec = { version = "0.22.3", default-features = false, features = ["alloc"] }
 tet-core = "2.0.2"
 tet-application-crypto = { version = "2.0.2" }
 tp-keystore = { version = "0.8.1" }

@@ -12,7 +12,7 @@ tetsy-kvdb-rocksdb = "0.11.0"
 thiserror = "1.0.23"
 tracing = "0.1.22"
 # tracing-futures = "0.2.4"
-bitvec = "0.20.1"
+bitvec = "0.22.3"
 
 tetsy-scale-codec = { version = "2.0.1", features = ["derive"] }
 erasure = { version = "0.8.28", package = "tetcoin-erasure-coding", path = "../../../erasure-coding" }

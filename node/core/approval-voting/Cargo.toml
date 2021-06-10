@@ -12,7 +12,7 @@ tetcoin-subsystem = { package = "tetcoin-node-subsystem", path = "../../subsyste
 tetcoin-overseer = { path = "../../overseer" }
 tetcoin-primitives = { version = "0.8.28", path = "../../../primitives" }
 tetcoin-node-primitives = { version = "0.1.0", path = "../../primitives" }
-bitvec = "0.20.1"
+bitvec = "0.22.3"
 
 tc-client-api = { version = "2.0.0", default-features = false }
 tp-consensus-slots = { version = "0.8.2", default-features = false }

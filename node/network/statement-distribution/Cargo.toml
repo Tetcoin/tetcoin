@@ -15,7 +15,7 @@ tp-staking = { version = "2.0.2", default-features = false }
 tetcoin-subsystem = { package = "tetcoin-node-subsystem", path = "../../subsystem" }
 tetcoin-node-subsystem-util = { path = "../../subsystem-util" }
 tetcoin-node-network-protocol = { path = "../../network/protocol" }
-arrayvec = "0.5.2"
+arrayvec = "0.7.1"
 indexmap = "1.6.1"
 
 [dev-dependencies]

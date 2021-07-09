@@ -36,7 +36,7 @@ getrandom = { version = "0.2", features = ["js"] }
 
 [dev-dependencies]
 assert_cmd = "1.0.2"
-nix = "0.19.1"
+nix = "0.22.0"
 tempfile = "3.2.0"
 
 [workspace]
